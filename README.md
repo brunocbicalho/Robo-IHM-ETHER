@@ -7,6 +7,7 @@ Projeto de um robô, controlado via Ethernet remotamente com uma IHM Nextion.
 //  - Utiliza controle de velocidade PWM
 //  - Envia e recebe pacote de dados com redundância na verificação de integridade de dados, para segurança
 //  - Sensores de temperatura, acelerômetro e pressão
+//  - Utiliza princípios de RTOS devido à complexidade do código, visando máximo de eficiência e resposta
 //
 // IHM
 //
